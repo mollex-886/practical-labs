@@ -1,14 +1,20 @@
-# Practical Labs
+# CyberDefenders Labs
 
-This repository contains my cybersecurity lab notes and learning writeups.
-
-## Platforms
-- Hack The Box
-- CyberDefenders
-- PicoCTF
+This repository contains my CyberDefenders lab notes and malware investigation writeups.
 
 ## Topics
-- Enumeration
-- Network Scanning
 - Malware Analysis
-- Linux Fundamentals 
+- Threat Detection
+- Log Investigation
+- IOC Identification
+- Network Traffic Analysis
+- Incident Response Fundamentals
+
+## Tools Used
+- Wireshark
+- VirusTotal
+- Strings
+- Basic Log Analysis Tools
+
+## Labs Completed
+- XMLRat
